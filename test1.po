@@ -1,0 +1,9 @@
+#: theme-name.php:123
+msgid "Page Title"
+msgstr "Seitentitel"
+
+msgid "Page Desc"
+msgstr "Hey HHH"
+
+msgid "Page Footer"
+msgstr "Footer"
